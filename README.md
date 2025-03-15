@@ -1,3 +1,3 @@
 # demo
 first git repo
-Authoe-Anish
+Author-Anish
