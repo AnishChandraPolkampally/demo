@@ -1,3 +1,3 @@
 # demo
 First git repo.<br>
-Author-Anish
+Author-Anish Chandra
